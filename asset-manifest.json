@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/special-cawngescrionforyur-/static/css/main.7cc9d054.css",
+    "main.js": "/special-cawngescrionforyur-/static/js/main.f388c215.js",
+    "static/js/453.8a275fee.chunk.js": "/special-cawngescrionforyur-/static/js/453.8a275fee.chunk.js",
+    "index.html": "/special-cawngescrionforyur-/index.html",
+    "main.7cc9d054.css.map": "/special-cawngescrionforyur-/static/css/main.7cc9d054.css.map",
+    "main.f388c215.js.map": "/special-cawngescrionforyur-/static/js/main.f388c215.js.map",
+    "453.8a275fee.chunk.js.map": "/special-cawngescrionforyur-/static/js/453.8a275fee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cc9d054.css",
+    "static/js/main.f388c215.js"
+  ]
+}
